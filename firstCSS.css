@@ -1,0 +1,12 @@
+/*selector - h1, p, all html elements*/
+/* property - color, background-color, */
+/* value - blue, lightpink */
+/* rule 1 */
+h1{color:blue;
+background-color: lightpink;
+}
+
+/* rule 2 */
+p{color: red;
+background-color: lightpink;
+}
